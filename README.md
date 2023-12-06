@@ -1,4 +1,4 @@
-# Lacerate-ohm
+# Lacerate-theme for ZSH
 my theme oh-my-zsh
 
 
